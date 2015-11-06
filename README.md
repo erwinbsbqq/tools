@@ -6,6 +6,4 @@ inlude:
 
 3.android.jar
 
-4.FTool.rar
-
-5.usb_driver.rar: usb adb driver 
+4.usb_driver.rar: usb adb driver 
